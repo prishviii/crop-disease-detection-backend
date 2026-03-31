@@ -1,0 +1,19 @@
+fastapi==0.128.5
+uvicorn==0.40.0
+python-multipart==0.0.22
+pillow==11.3.0
+numpy
+grad-cam
+opencv-python-headless
+matplotlib
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+
+supabase
+python-dotenv
+huggingface_hub
+deep-translator
+groq
+ultralytics
